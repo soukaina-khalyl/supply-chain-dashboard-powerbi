@@ -43,5 +43,4 @@ To simulate the responsibilities of a data analyst in a logistics/supply chain e
 - Supply chain and logistics analysis
 - Dashboard storytelling
 
-## 📎 Project Link
-> (Optional) Upload `.pbix` file in the repo or provide screenshots if large.
+
